@@ -1,0 +1,2 @@
+mpicxx mpi_main.cpp -o mpi_main
+mpirun -np 1 ./mpi_main 5
